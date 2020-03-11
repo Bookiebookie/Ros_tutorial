@@ -1,0 +1,12 @@
+background_b: 0
+background_g: 0
+background_r: 0
+rosdistro: 'melodic
+
+  '
+roslaunch:
+  uris: {host_vdiubuntu182__41263: 'http://vdiubuntu182:41263/'}
+rosversion: '1.14.3
+
+  '
+run_id: 05593c58-5f0d-11ea-84c4-005056a9143b
